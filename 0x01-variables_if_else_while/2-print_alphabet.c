@@ -1,17 +1,20 @@
 #include <stdio.h>
 
 /**
- *  main - main function
- *
+ *  main - Entry point
+ *  Description: 'Print alphabets lowercase'
  *  Return: always 0
  */
 
 int main(void)
 {
-	char i;
+	int n = 97;
 
-	for (i = 'a' : i <= 'z' : i++)
-		putchar(i);
-	putchar("\n");
+	while (n <= 122)
+	{
+		putchar(n);
+		n++;
+	}
+	putchar('\n');
 	return (0);
 }
