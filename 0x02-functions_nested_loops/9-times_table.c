@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * times_table - check description
  * Description: It prints 9 times taqble starting with 0
