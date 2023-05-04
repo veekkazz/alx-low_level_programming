@@ -1,12 +1,11 @@
 #include "main.h"
 
 /**
- * print_square - prints a square, followed by a new line;
+ * print_square - prints a square, followed by a new line
  * @n: number of _ to be printed
- * @size: size of the square
  * Return: void
  */
-void print_square(int )
+void print_square(int n)
 {
 	int i = 0, ii;
 
