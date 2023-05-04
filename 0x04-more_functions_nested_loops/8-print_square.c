@@ -6,7 +6,7 @@
  * @size: size of the square
  * Return: void
  */
-void print_square(int n)
+void print_square(int )
 {
 	int i = 0, ii;
 
