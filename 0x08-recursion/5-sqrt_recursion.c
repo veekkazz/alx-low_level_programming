@@ -3,10 +3,10 @@
 int actual_sqrt_recursion(int n, int i);
 
 /**
- * _sqrt_recursion - returns the natural square root of a number
+ * _sqrt_recursion - function returns the natural square root of a number
  * @n: number whose square root we are to find
  *
- * Return: square root of n
+ * Return: returns square root of n as an int
  */
 int _sqrt_recursion(int n)
 {
